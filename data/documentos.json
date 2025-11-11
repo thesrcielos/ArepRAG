@@ -1,0 +1,77 @@
+[
+  {
+    "id": "hist_001",
+    "titulo": "Evolución Humana: Del Australopithecus al Homo Sapiens",
+    "contenido": "La historia de la humanidad comienza con la evolución biológica de los homínidos, un proceso que abarca millones de años y que dio origen al Homo sapiens, la especie dominante actual.\n\nETAPAS PRINCIPALES:\n\n1. AUSTRALOPITHECUS (4 a 2 millones de años atrás):\n- Primeros homínidos bípedos conocidos.\n- Cerebro pequeño (~400-500 cm³).\n- Habitaban África oriental (Lucy, 3.2 millones de años).\n\n2. HOMO HABILIS (2.4 - 1.6 millones de años):\n- Primer uso sistemático de herramientas de piedra.\n- Aumento de capacidad craneal (~650 cm³).\n- Inicio del pensamiento abstracto.\n\n3. HOMO ERECTUS (1.8 millones - 300,000 años):\n- Control del fuego.\n- Migración fuera de África hacia Eurasia.\n- Cazadores organizados y con vida social más compleja.\n\n4. NEANDERTALES (400,000 - 40,000 años):\n- Adaptados al frío europeo.\n- Cultura simbólica (entierros, ornamentos).\n- ADN compartido con humanos modernos (~1-4%).\n\n5. HOMO SAPIENS (desde 300,000 años):\n- Aparición en África.\n- Lenguaje simbólico, arte rupestre, pensamiento complejo.\n- Expansión global y desaparición de otros homínidos.\n\nREVOLUCIÓN COGNITIVA (~70,000 años atrás):\n- Lenguaje complejo.\n- Cooperación a gran escala.\n- Mitos, religión, organización social avanzada.\n\nLEGADO:\nLa evolución humana sentó las bases biológicas y culturales que permitieron el desarrollo de las civilizaciones y la historia propiamente dicha.",
+    "metadata": {
+      "categoria": "prehistoria",
+      "subcategoria": "evolucion-humana",
+      "fecha": "2025-01-10",
+      "autor": "Dr. Alejandro Ruiz",
+      "nivel": "básico",
+      "tags": ["prehistoria", "evolución", "homo-sapiens", "neandertal", "australopithecus"],
+      "idioma": "es",
+      "tiempo_lectura": "10 min"
+    }
+  },
+  {
+    "id": "hist_002",
+    "titulo": "Civilizaciones Antiguas: Egipto, Mesopotamia y Grecia",
+    "contenido": "Las primeras civilizaciones surgieron entre los ríos fértiles, donde el ser humano pasó de nómada a sedentario. Estas sociedades marcaron el inicio de la historia escrita.\n\n1. MESOPOTAMIA (4000–539 a.C.):\n- Entre los ríos Tigris y Éufrates.\n- Primeras ciudades: Ur, Uruk, Babilonia.\n- Escritura cuneiforme (la más antigua conocida).\n- Código de Hammurabi (primer sistema legal codificado).\n- Religión politeísta y zigurats.\n\n2. EGIPTO (3100–30 a.C.):\n- Unificación bajo el faraón Narmer.\n- Pirámides como tumbas reales y símbolo de poder.\n- Escritura jeroglífica.\n- Religión centrada en el más allá (Osiris, Ra, Anubis).\n- Avances en medicina, matemáticas y arquitectura.\n\n3. GRECIA (1200–146 a.C.):\n- Cuna de la filosofía, la democracia y la ciencia.\n- Polis (ciudades-estado): Atenas, Esparta, Tebas.\n- Época clásica: Sócrates, Platón, Aristóteles.\n- Teatro, arte y arquitectura (Partenón).\n- Conquista por Roma (146 a.C.).\n\nIMPACTO:\nEstas civilizaciones establecieron los pilares de la cultura occidental: leyes, pensamiento racional, arte y organización política.",
+    "metadata": {
+      "categoria": "antiguedad",
+      "subcategoria": "civilizaciones",
+      "fecha": "2025-01-12",
+      "autor": "Dra. Isabel Montoya",
+      "nivel": "intermedio",
+      "tags": ["egipto", "mesopotamia", "grecia", "civilizaciones", "historia-antigua"],
+      "idioma": "es",
+      "tiempo_lectura": "14 min"
+    }
+  },
+  {
+    "id": "hist_003",
+    "titulo": "La Edad Media: Fe, Feudalismo y Cruzadas",
+    "contenido": "La Edad Media (siglos V–XV) fue una época de transformaciones políticas, religiosas y culturales tras la caída del Imperio Romano de Occidente.\n\nCARACTERÍSTICAS PRINCIPALES:\n- Sociedad feudal: reyes, nobles, clérigos y siervos.\n- Predominio del cristianismo en Europa.\n- El Papa como máxima autoridad espiritual.\n- Economía agraria y autosuficiente (señoríos feudales).\n\nEVENTOS DESTACADOS:\n1. CAÍDA DE ROMA (476 d.C.):\n- Desaparición del poder central.\n- Invasiones bárbaras.\n\n2. ISLAM Y SU EXPANSIÓN (siglo VII):\n- Fundado por Mahoma.\n- Conquista rápida desde Arabia hasta España e India.\n- Aportes científicos y culturales notables.\n\n3. CRUZADAS (1096–1291):\n- Guerras religiosas para recuperar Tierra Santa.\n- Contacto cultural entre Oriente y Occidente.\n\n4. UNIVERSIDADES (siglo XII):\n- Nacimiento del pensamiento escolástico.\n- Tomás de Aquino y la síntesis entre fe y razón.\n\nFIN DE LA EDAD MEDIA:\n- Crisis del siglo XIV (peste negra, guerras, hambrunas).\n- Renacimiento urbano y comercial.\n- Caída de Constantinopla (1453).\n\nLEGADO:\nEl cristianismo, el feudalismo y las instituciones medievales sentaron las bases para el surgimiento de la Europa moderna.",
+    "metadata": {
+      "categoria": "edad-media",
+      "subcategoria": "feudalismo",
+      "fecha": "2025-01-15",
+      "autor": "Dr. Ernesto Vélez",
+      "nivel": "intermedio",
+      "tags": ["edad-media", "feudalismo", "cruzadas", "iglesia", "universidades"],
+      "idioma": "es",
+      "tiempo_lectura": "16 min"
+    }
+  },
+  {
+    "id": "hist_004",
+    "titulo": "La Revolución Industrial: Transformación Económica y Social",
+    "contenido": "La Revolución Industrial (siglo XVIII–XIX) fue un proceso de cambio tecnológico, económico y social que transformó al mundo.\n\nPRIMERA REVOLUCIÓN INDUSTRIAL (1760–1840):\n- Origen en Inglaterra.\n- Invenciones clave: máquina de vapor (James Watt), telar mecánico, ferrocarril.\n- Producción en masa y urbanización acelerada.\n- Surgimiento de la clase obrera y burguesía industrial.\n\nSEGUNDA REVOLUCIÓN INDUSTRIAL (1870–1914):\n- Expansión de la electricidad, el acero y el petróleo.\n- Innovaciones: motor de combustión interna, telégrafo, teléfono.\n- Empresas y corporaciones multinacionales.\n- Globalización inicial del comercio.\n\nCONSECUENCIAS:\n- Crecimiento económico sin precedentes.\n- Aumento de la desigualdad social.\n- Migración masiva del campo a la ciudad.\n- Aparición de movimientos obreros (sindicatos, marxismo).\n\nLEGADO:\nEl capitalismo industrial dio forma a la economía moderna y a la sociedad urbana contemporánea.",
+    "metadata": {
+      "categoria": "edad-moderna",
+      "subcategoria": "revolucion-industrial",
+      "fecha": "2025-01-18",
+      "autor": "Dra. Laura Benítez",
+      "nivel": "intermedio",
+      "tags": ["revolucion-industrial", "capitalismo", "tecnologia", "marxismo", "urbanizacion"],
+      "idioma": "es",
+      "tiempo_lectura": "13 min"
+    }
+  },
+  {
+    "id": "hist_005",
+    "titulo": "El Siglo XX: Guerras Mundiales y Transformaciones Globales",
+    "contenido": "El siglo XX fue uno de los más intensos de la historia humana: guerras, revoluciones, avances científicos y el inicio de la globalización contemporánea.\n\nPRIMERA GUERRA MUNDIAL (1914–1918):\n- Causas: nacionalismo, alianzas, imperialismo.\n- Innovaciones bélicas: tanques, gas, aviación.\n- Fin del Imperio Austrohúngaro y del Otomano.\n- Tratado de Versalles y humillación de Alemania.\n\nSEGUNDA GUERRA MUNDIAL (1939–1945):\n- Causas: ascenso del fascismo, expansionismo nazi.\n- Holocausto y genocidios masivos.\n- Bombas atómicas en Hiroshima y Nagasaki.\n- Creación de la ONU.\n\nGUERRA FRÍA (1947–1991):\n- Rivalidad EE. UU. vs URSS.\n- Carrera espacial y armamentista.\n- Caída del Muro de Berlín (1989).\n\nCAMBIOS SOCIALES Y TECNOLÓGICOS:\n- Descolonización de África y Asia.\n- Movimientos feministas y de derechos civiles.\n- Invención del Internet (años 80).\n- Globalización económica y cultural.\n\nLEGADO:\nEl siglo XX definió el mundo moderno: potencias globales, avances científicos sin precedentes y nuevos desafíos éticos y ambientales.",
+    "metadata": {
+      "categoria": "historia-contemporanea",
+      "subcategoria": "siglo-xx",
+      "fecha": "2025-01-20",
+      "autor": "Dr. Ricardo Pérez",
+      "nivel": "avanzado",
+      "tags": ["guerras-mundiales", "guerra-fria", "onu", "internet", "globalizacion"],
+      "idioma": "es",
+      "tiempo_lectura": "18 min"
+    }
+  }
+]
