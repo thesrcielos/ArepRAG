@@ -1,8 +1,9 @@
 # RAG  sobre Historia de la Humanidad
 
-Este proyecto implementa un sistema de Recuperación Aumentada por Generación (RAG) para consultar información sobre la historia de la humanidad. Utiliza Pinecone como base de datos vectorial y modelos de OpenAI para generar respuestas precisas basadas en los datos almacenados.
+Este proyecto implementa un sistema de Recuperación Aumentada por Generación (RAG) diseñado para realizar consultas inteligentes sobre la historia de la humanidad.
+Combina el poder de Pinecone como base de datos vectorial y los modelos de OpenAI para ofrecer respuestas precisas y contextuales a partir del conocimiento almacenado.
 
-## 📋 Características
+## Características
 
 - Búsqueda semántica de información histórica
 - Respuestas generadas por IA basadas en contexto relevante
@@ -10,25 +11,25 @@ Este proyecto implementa un sistema de Recuperación Aumentada por Generación (
 - Interfaz de línea de comandos interactiva
 - Especializado en temas históricos: civilizaciones, guerras, imperios, religión, arte, ciencia y cultura
 
-## 🚀 Requisitos
+## Requisitos
 
 Antes de comenzar, asegúrate de tener instalado:
 
 - Python 3.9
 - [Pip](https://pip.pypa.io/en/stable/) (gestor de paquetes de Python)
-- Una cuenta en [OpenAI](https://platform.openai.com/) para obtener una API key
-- Una cuenta en [Pinecone](https://www.pinecone.io/) para el almacenamiento vectorial
+- Una API Key de [OpenAI](https://platform.openai.com/)
+- Una API Key de [Pinecone](https://www.pinecone.io/) para el almacenamiento vectorial
 
-## 🔧 Instalación
+## Instalacion
 
-1. Clona el repositorio:
+1. Clona el siguiente repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/arep-taller8-RAG.git
-   cd arep-taller8-RAG
+   git clone https://github.com/thesrcielos/ArepRAG
+   cd ArepRAG
    ```
 
-2. Crea y activa un entorno virtual (recomendado):
+2. Crear y acceder a un entorno virtual:
 
    ```bash
    python -m venv venv
@@ -38,20 +39,20 @@ Antes de comenzar, asegúrate de tener instalado:
    source venv/bin/activate
    ```
 
-3. Instala las dependencias:
+3. Instalacion de las dependencias:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Crea un archivo `.env` en la raíz del proyecto con las siguientes variables:
+4. Crea un archivo .env en la raíz del proyecto con lo siguiente:
 
-   ```
-   OPENAI_API_KEY=tu_api_key_de_openai
-   PINECONE_API_KEY=tu_api_key_de_pinecone
-   ```
+```
+PINECONE_API_KEY=api_key
+OPENAI_API_KEY=api_key
+```
 
-## 🏃 Ejecución
+## Ejecución
 
 ### 1. Cargar datos a Pinecone
 
@@ -89,18 +90,10 @@ Escribe `salir`, `exit` o `quit` para terminar la sesión.
 - `.env`: Archivo para variables de entorno (no incluido en el repositorio)
 - `assets/`: Carpeta con imágenes de evidencia del proyecto
 
-## 📝 Notas adicionales
-
-- Asegúrate de que tu archivo `data/documentos.json` tenga el formato correcto con los campos necesarios: `id`, `titulo`, `contenido` y `metadata`.
-- El sistema está configurado para usar el modelo `gpt-4o-mini` de OpenAI y `text-embedding-3-small` para los embeddings.
-- Los documentos se dividen automáticamente en fragmentos de 1000 caracteres con un solapamiento de 200 caracteres para mejorar la precisión de las búsquedas.
-- El índice de Pinecone utiliza la métrica de similitud coseno y tiene una dimensión de 1536 (compatible con `text-embedding-3-small`).
-- Puedes ajustar los parámetros de búsqueda en `use.py` según tus necesidades (por ejemplo, cambiar `k=3` en `similarity_search` para obtener más o menos resultados).
-
 ## Evidencia
-
+Carga de datos a Pipecone
 ![alt text](assets/img0.png)
-
+Pregunta al chat con RAG
 ![alt text](assets/img1.png)
 
 ![alt text](assets/img2.png)
